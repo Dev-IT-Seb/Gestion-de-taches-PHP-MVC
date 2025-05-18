@@ -6,6 +6,12 @@
 **EN :** An object-oriented PHP MVC application that allows each user to manage their task list. Access is protected: users must be logged in, and each user only sees their own tasks.
 
 ---
+## Demo video - Creation/Connexion
+<p align="center">
+    <img width="100%" src="./medias/trailer.gif" />
+</p>
+
+
 ## Page Connexion
 ![Page de connexion](images/connexion.png)
 
@@ -42,7 +48,7 @@
 **FR :**  
 1. Cloner le dépôt  
    ```bash
-   git clone https://github.com/Dev-IT-Seb/Gestion-de-taches-PHP-MVC.git
+   git clone https://github.com/schatel-dev/Gestion-de-taches-PHP-MVC.git
    ```
 2. Créer la base de données  
    ```sql
@@ -77,7 +83,7 @@
 **EN :**  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Dev-IT-Seb/Gestion-de-taches-PHP-MVC.git
+   git clone https://github.com/schatel-dev/Gestion-de-taches-PHP-MVC.git
    ```
 2. Create the database  
    ```sql
@@ -142,7 +148,7 @@
 
 **Sebastien C.**  
 🎓 Promo 2025  
-🔗 GitHub : [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
+🔗 GitHub : [@schatel-dev](https://github.com/schatel-dev)
 
 ---
 
